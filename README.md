@@ -11,6 +11,7 @@ COVID-19 Map Tracker is a web application that visualizes COVID-19 data on a wor
   - [Installation](#installation)
 - [Usage](#usage)
 - [APIs Used](#apis-used)
+- [Hosting](#hosting)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -54,6 +55,11 @@ To run this project locally, follow these steps:
 
 - [Disease.sh](https://disease.sh/): Provides COVID-19 data and statistics.
 - [OpenStreetMap](https://www.openstreetmap.org/): Provides map tiles for the interactive map.
+
+## Hosting
+
+The project is hosted on AWS S3. You can access it using the following link:
+[COVID-19 Map Tracker on AWS S3](https://covid19project05.s3-website-us-east-1.amazonaws.com/)
 
 
 ## Contributing
