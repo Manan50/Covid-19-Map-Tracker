@@ -59,7 +59,7 @@ To run this project locally, follow these steps:
 ## Hosting
 
 The project is hosted on AWS S3. You can access it using the following link:
-[COVID-19 Map Tracker on AWS S3](https://covid19project05.s3-website-us-east-1.amazonaws.com/)
+[COVID-19 Map Tracker on AWS S3](http://covid19project05.s3-website-us-east-1.amazonaws.com/)
 
 
 ## Contributing
